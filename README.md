@@ -6,3 +6,4 @@ Aufgabe_3:https://github.com/XxLaraxX/IFD/blob/main/IFD_3_interaktive%20Datenvis
 
 Aufgabe_4.1.1:https://github.com/XxLaraxX/IFD/blob/main/Low-Fid%20Prototype.pdf
 Aufgabe_4.1.2:https://github.com/XxLaraxX/IFD/blob/main/Low-Fid%20Protoype_Sketch.pdf
+Aufgabe_4.2.1:https://github.com/XxLaraxX/IFD/blob/main/Sketch_von_lara_Göppert.pdf
