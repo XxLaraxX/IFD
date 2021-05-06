@@ -2,19 +2,20 @@
 https://xxlaraxx.github.io/IFD/
 
 
-<a href="https://webuser.hs-furtwangen.de/~goeppert/IFD/IFD_0/IFD_0.html">Aufgabe 0</a>
+Aufgabe 0 <a href="https://webuser.hs-furtwangen.de/~goeppert/IFD/IFD_0/IFD_0.html">SWAT-Analyse</a>
 
 
-<a href="https://github.com/XxLaraxX/IFD/blob/main/IFD_1_Walletprojekt.pdf">Aufgabe 1 </a>
+Aufgabe 1 <a href="https://github.com/XxLaraxX/IFD/blob/main/IFD_1_Walletprojekt.pdf">Wallet Projekt </a>
          
          
-<a href="https://github.com/XxLaraxX/IFD/blob/main/IFD_3_interaktive%20Datenvisualierung.pdf">Aufgabe 2 </a>
+Aufgabe 2 <a href="https://github.com/XxLaraxX/IFD/blob/main/IFD_3_interaktive%20Datenvisualierung.pdf">Interaktive Datenvisualisierung </a>
 
-Aufgabe_4.1.1:https://github.com/XxLaraxX/IFD/blob/main/Low-Fid%20Prototype.pdf
-Aufgabe_4.1.2:https://github.com/XxLaraxX/IFD/blob/main/Low-Fid%20Protoype_Sketch.pdf
-Aufgabe_4.2.1:https://github.com/XxLaraxX/IFD/blob/main/Sketch_von_lara_Göppert.pdf
+Aufgabe 4.1.1 <a href="https://github.com/XxLaraxX/IFD/blob/main/Low-Fid%20Prototype.pdf">Loq-Fid-Protoype </a>
+
+Aufgabe_4.1.2 <a href="ttps://github.com/XxLaraxX/IFD/blob/main/Low-Fid%20Protoype_Sketch.pdf">Loq-Fid-Protoype-Sketch </a>
+Aufgabe_4.2.1<a href="https://github.com/XxLaraxX/IFD/blob/main/Sketch_von_lara_Göppert.pdf">Sketch </a>
 
 
-Aufgabe_5/6 : High-Fit-Prototype : https://xd.adobe.com/view/2f0c1d47-15ff-4055-8cf2-b2e6bdca0e92-7a5f/
-Doku:https://github.com/XxLaraxX/IFD/blob/main/IFD_Aufgabe5%2C6_Doku.pdf
+Aufgabe_5 <a href=" High-Fit-Prototype : https://xd.adobe.com/view/2f0c1d47-15ff-4055-8cf2-b2e6bdca0e92-7a5f/">High-Fit-Prototype </a>
+Aufgabe_5_Doku<a href="https://github.com/XxLaraxX/IFD/blob/main/IFD_Aufgabe5%2C6_Doku.pdf </a>
 
