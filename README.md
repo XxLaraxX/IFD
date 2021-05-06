@@ -2,8 +2,8 @@
 https://xxlaraxx.github.io/IFD/
 
 
-<a href="Aufgabe_0:https://webuser.hs-furtwangen.de/~goeppert/IFD/IFD_0/IFD_0.html">Aufgabe 0</a>
-<a href="Aufgabe_1:https://github.com/XxLaraxX/IFD/blob/main/IFD_1_Walletprojekt.pdf>Aufgabe 1</a>
+<a href="https://webuser.hs-furtwangen.de/~goeppert/IFD/IFD_0/IFD_0.html">Aufgabe 0</a>
+<a href="https://github.com/XxLaraxX/IFD/blob/main/IFD_1_Walletprojekt.pdf>Aufgabe 1 </a>
 Aufgabe_3:https://github.com/XxLaraxX/IFD/blob/main/IFD_3_interaktive%20Datenvisualierung.pdf
 
 Aufgabe_4.1.1:https://github.com/XxLaraxX/IFD/blob/main/Low-Fid%20Prototype.pdf
