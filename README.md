@@ -8,7 +8,7 @@ https://xxlaraxx.github.io/IFD/
 <a href="https://github.com/XxLaraxX/IFD/blob/main/IFD_1_Walletprojekt.pdf">Aufgabe 1 </a>
          
          
-Aufgabe_3:https://github.com/XxLaraxX/IFD/blob/main/IFD_3_interaktive%20Datenvisualierung.pdf
+<a href="https://github.com/XxLaraxX/IFD/blob/main/IFD_3_interaktive%20Datenvisualierung.pdf">Aufgabe 2 </a>
 
 Aufgabe_4.1.1:https://github.com/XxLaraxX/IFD/blob/main/Low-Fid%20Prototype.pdf
 Aufgabe_4.1.2:https://github.com/XxLaraxX/IFD/blob/main/Low-Fid%20Protoype_Sketch.pdf
