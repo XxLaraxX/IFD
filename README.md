@@ -21,3 +21,4 @@ Aufgabe_5 <a href="https://xd.adobe.com/view/2f0c1d47-15ff-4055-8cf2-b2e6bdca0e9
 
 Aufgabe_5_Doku <a href="https://github.com/XxLaraxX/IFD/blob/main/IFD_Aufgabe5%2C6_Doku.pdf">High-Fit-Prototype-Doku </a>
 
+Aufgabe_6 <a href="https://github.com/XxLaraxX/IFD/blob/main/Test%20and%20Evaluate.pdf">Test and Evaluate </a>
